@@ -11,6 +11,6 @@
   "author": "sad_c0der <sad_c0der@ctemplar.com>",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^1.0.2"
   }
 }
